@@ -9,7 +9,7 @@ import service.BatchService;
 import service.StudentService;
 import service.TrainerService;
 
-import java.util.Scanner;
+
 
 public class Main {
 
